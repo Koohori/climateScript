@@ -1,6 +1,7 @@
 import matplotlib as mpl
 import matplotlib.pyplot as plt
-changes_plot=[]
+temp_plot=[]
+time_plot=[]
 
 # Constants
 ## albedo
@@ -22,4 +23,14 @@ shc = 4*10**8
 ## Sigma
 sigma = 5.67*10**-8
 
+
+def pop(albedo, ti, em, time, time_delta):
+
+
+
+
+
+
+
+a = int(input(
 
