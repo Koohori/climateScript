@@ -36,7 +36,13 @@ def pop(incoming_energy, years, current_temp, outgoing_energy):
 
 pop(600,80,0.1,20000)
 plt.plot(changes_plot)
-plt.show() 
+plt.show()
+
+0.5
+3
+0.1
+288
+15
 
 '''
 
@@ -61,5 +67,3 @@ simple_simulator(initial_temp,number_of_years,input_increase)
 print(temp_plot)
 plt.plot(temp_plot)
 plt.show()
-
-
